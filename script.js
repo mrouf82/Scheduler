@@ -2,30 +2,6 @@ var DateTime = luxon.DateTime;
 var now = DateTime.local();
 var currentHour = now.hour;
 
-var hours = [
-  {
-    hour: "8am",
-    numHour: "8",
-  },
-
-  { hour: "9am", numHour: "9" },
-
-  { hour: "10am", numHour: "10" },
-
-  { hour: "11am", numHour: "11" },
-
-  { hour: "12pm", numHour: "12" },
-
-  { hour: "1pm", numHour: "13" },
-
-  { hour: "2pm", numHour: "14" },
-
-  { hour: "3pm", numHour: "15" },
-
-  { hour: "4pm", numHour: "16" },
-
-  { hour: "5pm", numHour: "17" },
-];
 //use jQuery append and for loop to append it to a container.
 //type something in the textarea
 //then press save and localstorage will allow the text to be saved
