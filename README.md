@@ -30,3 +30,7 @@ THEN the saved events persist
 ```
 <img width="1128" alt="scheduler" src="https://user-images.githubusercontent.com/75406497/108615744-28858780-73d5-11eb-942d-c348ee50c046.PNG">
 
+ Technologies used includes HTML, CSS, Javascript, Bootstrap, JQuery.
+
+Licensed by MIT
+Contact me at mrouf82@gmail.com
